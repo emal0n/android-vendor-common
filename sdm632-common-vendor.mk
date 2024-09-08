@@ -677,4 +677,4 @@ PRODUCT_PACKAGES += \
     qti-telephony-common \
     vendor.qti.ims.callinfo-V1.0-java \
     vendor.qti.ims.rcsconfig-V1.0-java \
-    vendor.qti.gnss@3.0-service
+    vendor.qti.gnss@3.0-service.xml
